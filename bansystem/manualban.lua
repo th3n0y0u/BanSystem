@@ -1,0 +1,3 @@
+local banned = {}
+
+return banned
